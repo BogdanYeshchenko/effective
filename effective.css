@@ -1,5 +1,7 @@
 npm install normalize.css
 
+@import '~normalize.css'; //імпорт в index.css
+
 
 
 
